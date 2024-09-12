@@ -1,0 +1,9 @@
+[default.general]
+chip = "stm32l432kb"
+
+
+[default.rtt]
+enabled = true
+
+[default.gdb]
+enabled = false
